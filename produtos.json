@@ -5,7 +5,10 @@
     "categoria": "Decoração",
     "preco": "29,90",
     "imagem": "img/pinguim.jpg",
-    "descricao": "Pinguim decorativo impresso em PLA."
+    "descricao": "Pinguim decorativo impresso em PLA.",
+	"peso": "60g",
+    "tamanho": "12 x 8 x 15 cm",
+    "tempoImpressao": "4h 20min"
   },
   {
     "id": 2,
@@ -13,6 +16,9 @@
     "categoria": "Decoração",
     "preco": "34,90",
     "imagem": "img/capivara.jpg",
-    "descricao": "Capivara decorativa impressa em PLA."
+    "descricao": "Capivara decorativa impressa em PLA.",
+	"peso": "60g",
+    "tamanho": "12 x 8 x 15 cm",
+    "tempoImpressao": "4h 20min"
   }
 ]

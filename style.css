@@ -304,3 +304,43 @@ footer {
 ::-webkit-scrollbar-thumb:hover {
     background: var(--accent-hover);
 }
+
+
+
+
+
+
+
+.produto-info {
+    margin-top: 20px;
+}
+
+.produto-info p {
+    margin-bottom: 8px;
+}
+
+.cores-disponiveis {
+    margin-top: 20px;
+}
+
+.cores-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.cor-item {
+    width: 32px;
+    height: 32px;
+
+    border-radius: 8px;
+
+    border: 2px solid #444;
+
+    transition: .2s;
+}
+
+.cor-item:hover {
+    transform: scale(1.1);
+    border-color: white;
+}
