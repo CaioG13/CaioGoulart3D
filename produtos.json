@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nome": "Pinguim Low Poly",
+    "categoria": "Decoração",
+    "preco": "29,90",
+    "imagem": "img/pinguim.jpg",
+    "descricao": "Pinguim decorativo impresso em PLA."
+  },
+  {
+    "id": 2,
+    "nome": "Capivara Low Poly",
+    "categoria": "Decoração",
+    "preco": "34,90",
+    "imagem": "img/capivara.jpg",
+    "descricao": "Capivara decorativa impressa em PLA."
+  }
+]
