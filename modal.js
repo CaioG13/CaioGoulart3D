@@ -2,14 +2,14 @@
 const CORES_DISPONIVEIS = [
     { nome: "Branco", cor: "#FFFFFF" },
     { nome: "Preto", cor: "#000000" },
-    { nome: "Cinza", cor: "#808080" },
-    { nome: "Vermelho", cor: "#FF0000" },
-    { nome: "Azul", cor: "#0066FF" },
-    { nome: "Verde", cor: "#00AA00" },
-    { nome: "Amarelo", cor: "#FFD700" },
-    { nome: "Rosa", cor: "#FF69B4" },
-    { nome: "Laranja", cor: "#FF8800" },
-    { nome: "Transparente", cor: "#E0E0E0" }
+   // { nome: "Cinza", cor: "#808080" },
+   // { nome: "Vermelho", cor: "#FF0000" },
+   // { nome: "Azul", cor: "#0066FF" },
+   // { nome: "Verde", cor: "#00AA00" },
+   // { nome: "Amarelo", cor: "#FFD700" },
+   // { nome: "Rosa", cor: "#FF69B4" },
+   // { nome: "Laranja", cor: "#FF8800" },
+   // { nome: "Transparente", cor: "#E0E0E0" }
 ];
 
 function ativarEventosDetalhes() {
