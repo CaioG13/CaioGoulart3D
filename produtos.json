@@ -20,5 +20,49 @@
 	"peso": "60g",
     "tamanho": "12 x 8 x 15 cm",
     "tempoImpressao": "4h 20min"
+  },
+    {
+    "id": 3,
+    "nome": "Gatinho",
+    "categoria": "Decoração",
+    "preco": "3,00",
+    "imagem": "img/gatinho5g.jpg",
+    "descricao": "Gatinho pequeno em PLA.",
+	"peso": "5 gramas",
+    "tamanho": "2,5 x 3,3 x 3,5 cm",
+    "tempoImpressao": "30min"
+  },
+  {
+    "id": 4,
+    "nome": "Cesto Grande",
+    "categoria": "Organização",
+    "preco": "30,00",
+    "imagem": "img/Cesto30.jpg",
+    "descricao": "Cesto grande em PLA.",
+	  "peso": "204 gramas",
+    "tamanho": "200 x 200 x 130 cm",
+    "tempoImpressao": "25h"
+  },
+    {
+    "id": 5,
+    "nome": "Cesto Pequeno",
+    "categoria": "Organização",
+    "preco": "15,00",
+    "imagem": "img/Cesto15.jpg",
+    "descricao": "Cesto pequeno em PLA.",
+	  "peso": "64,5 gramas",
+    "tamanho": "94 x 94 x 110 cm",
+    "tempoImpressao": "10h"
+  },
+      {
+    "id": 6,
+    "nome": "Porta Treco empilhável",
+    "categoria": "Organização",
+    "preco": "15,00 unidade - 40,00 3 unidades",
+    "imagem": "img/Cesto15(2).jpg",
+    "descricao": "Porta Treco empilhável em PLA.",
+	  "peso": "71,5 gramas",
+    "tamanho": "106 x 106 x 48 cm",
+    "tempoImpressao": "5h 30min"
   }
 ]
