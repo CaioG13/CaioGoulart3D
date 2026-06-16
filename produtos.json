@@ -3,23 +3,23 @@
     "id": 1,
     "nome": "Pinguim Low Poly",
     "categoria": "Decoração",
-    "preco": "29,90",
+    "preco": "14,90",
     "imagem": "img/pinguim.jpg",
     "descricao": "Pinguim decorativo impresso em PLA.",
-	"peso": "60g",
-    "tamanho": "12 x 8 x 15 cm",
-    "tempoImpressao": "4h 20min"
+	"peso": "76,7 gramas",
+    "tamanho": "9,7 x 7,6 x 9 cm",
+    "tempoImpressao": "4h 18min"
   },
   {
     "id": 2,
     "nome": "Capivara Low Poly",
     "categoria": "Decoração",
-    "preco": "34,90",
+    "preco": "10,00",
     "imagem": "img/capivara.jpg",
     "descricao": "Capivara decorativa impressa em PLA.",
-	"peso": "60g",
-    "tamanho": "12 x 8 x 15 cm",
-    "tempoImpressao": "4h 20min"
+	"peso": "20,5 gramas",
+    "tamanho": "4,6 x 7,9 x 5 cm",
+    "tempoImpressao": "1h 35min"
   },
     {
     "id": 3,
@@ -40,7 +40,7 @@
     "imagem": "img/Cesto30.jpg",
     "descricao": "Cesto grande em PLA.",
 	  "peso": "204 gramas",
-    "tamanho": "200 x 200 x 130 cm",
+    "tamanho": "20 x 20 x 13 cm",
     "tempoImpressao": "25h"
   },
     {
@@ -51,7 +51,7 @@
     "imagem": "img/cesto15.jpg",
     "descricao": "Cesto pequeno em PLA.",
 	  "peso": "64,5 gramas",
-    "tamanho": "94 x 94 x 110 cm",
+    "tamanho": "9,4 x 9,4 x 11 cm",
     "tempoImpressao": "10h"
   },
       {
@@ -62,7 +62,52 @@
     "imagem": "img/cesto15(2).jpg",
     "descricao": "Porta Treco empilhável em PLA.",
 	  "peso": "71,5 gramas",
-    "tamanho": "106 x 106 x 48 cm",
+    "tamanho": "10,6 x 10,6 x 4,8 cm",
     "tempoImpressao": "5h 30min"
+  },
+        {
+    "id": 7,
+    "nome": "Trex Articulado",
+    "categoria": "Decoração",
+    "preco": "9,90",
+    "imagem": "img/DinoArticulado.jpg",
+    "descricao": "Trex articulado em PLA.",
+	  "peso": "32,5 gramas",
+    "tamanho": "8,6 x 14,8 x 3,1 cm",
+    "tempoImpressao": "3h 42min"
+  },
+        {
+    "id": 8,
+    "nome": "Porta Livro Gato",
+    "categoria": ["Utilidades" , "Decoração" , "Livros"],
+    "preco": "14,00",
+    "imagem": "img/PortaLivroGato1.jpg",
+    "descricao": "Porta Livro Gato em PLA.",
+	  "peso": "33,7 gramas",
+    "tamanho": "10,3 x 14,8 x 7,8 cm",
+    "tempoImpressao": "2h 2min"
+  },
+        {
+    "id": 9,
+    "nome": "Vaso de Planta de Gato",
+    "categoria": ["Utilidades" , "Decoração"],
+    "preco": "17,90",
+    "imagem": "img/VasoGato.jpg",
+    "descricao": "Vaso de Planta de Gato em PLA.",
+	  "peso": "65,8 gramas",
+    "tamanho": "7 x 9,8 x 10 cm",
+    "tempoImpressao": "3h 42min"
+  }
+  ,
+        {
+    "id": 10,
+    "nome": "Yoda Suporte para Celular",
+    "categoria": ["Utilidades" , "Geek"],
+    "preco": "18,00",
+    "imagem": "img/YodaSuporte.jpg",
+    "descricao": "Yoda Suporte para Celular em PLA.",
+	  "peso": "38 gramas",
+    "tamanho": "9,2 x 7,0 x 8,0 cm",
+    "tempoImpressao": "3h 10min"
   }
 ]

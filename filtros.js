@@ -14,7 +14,7 @@ function aplicarFiltros() {
 
         const categoriaCombina =
             categoriaAtual === "Todos" ||
-            produto.categoria === categoriaAtual;
+            produto.categoria.includes(categoriaAtual);
 
         return nomeCombina && categoriaCombina;
     });
