@@ -5,10 +5,10 @@ const CORES_DISPONIVEIS = [
    // { nome: "Cinza", cor: "#808080" },
    // { nome: "Vermelho", cor: "#FF0000" },
    // { nome: "Azul", cor: "#0066FF" },
-    { nome: "Verde", cor: "#00AA00" },
+    { nome: "Verde", cor: "#00ca00" },
    // { nome: "Amarelo", cor: "#FFD700" },
-    { nome: "Marrrom", cor: "#8b5b00" },
-    { nome: "Rosa", cor: "#FF69B4" },
+    { nome: "Marrrom", cor: "#5f3e00" },
+    { nome: "Rosa", cor: "#f83597" },
    // { nome: "Laranja", cor: "#FF8800" },
    // { nome: "Transparente", cor: "#E0E0E0" }
 ];
