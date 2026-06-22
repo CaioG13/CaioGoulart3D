@@ -87,7 +87,7 @@
     "tamanho": "10,3 x 14,8 x 7,8 cm",
     "tempoImpressao": "2h 2min"
   },
-        {
+{
     "id": 9,
     "nome": "Vaso de Planta de Gato",
     "categoria": ["Utilidades" , "Decoração"],
@@ -98,7 +98,7 @@
     "tamanho": "7 x 9,8 x 10 cm",
     "tempoImpressao": "3h 42min"
   },
-        {
+{
     "id": 10,
     "nome": "Yoda Suporte para Celular",
     "categoria": ["Utilidades" , "Geek"],
@@ -108,11 +108,11 @@
 	  "peso": "38 gramas",
     "tamanho": "9,2 x 7,0 x 8,0 cm",
     "tempoImpressao": "3h 10min"
-        },
+},
   {
     "id": 11,
     "nome": "Marca Pagina Gatinho",
-    "categoria": "",
+    "categoria": ["Utilidades" , "livros"],
     "preco": "R$ 2,00",
     "imagem": "img/Marca Pagina Gatinho.jpg",
     "descricao": "Marca pagina de catinho muito fofo.",
@@ -123,7 +123,7 @@
   {
     "id": 12,
     "nome": "Buldog Francês Estiloso",
-    "categoria": "",
+    "categoria": ["Decoração" , "Animais"],
     "preco": "R$ 10,00",
     "imagem": "img/Buldog Francês Estiloso.jpg",
     "descricao": "Buldog frances super estiloso de oculos.",
@@ -134,7 +134,7 @@
   {
     "id": 13,
     "nome": "Cachorro Labrador",
-    "categoria": "",
+    "categoria": ["Decoração" , "Animais"],
     "preco": "R$ 15,00",
     "imagem": "img/Cachorro Labrador.jpg",
     "descricao": "Cachorrinho labrador fofo.",
@@ -145,7 +145,7 @@
   {
     "id": 14,
     "nome": "Miniatura Samurai",
-    "categoria": "",
+    "categoria": ["Decoração"],
     "preco": "R$ 25,00",
     "imagem": "img/Miniatura Samurai.jpg",
     "descricao": "Miniatura de samurai detalhada.",
@@ -167,7 +167,7 @@
   {
     "id": 16,
     "nome": "Suporte Multifuncional",
-    "categoria": "",
+    "categoria": ["Utilidades"],
     "preco": "R$ 30,00",
     "imagem": "img/Suporte Multifuncional.jpg",
     "descricao": "suporte multifuncional para fone e porta caneta.",
@@ -178,7 +178,7 @@
   {
     "id": 17,
     "nome": "Suporte Minimalista para Celular",
-    "categoria": "",
+    "categoria": ["Utilidades"],
     "preco": "R$ 8,00",
     "imagem": "img/Suporte Minimalista para Celular.jpg",
     "descricao": "suporte minimalista e compacto para celular e tablet.",
