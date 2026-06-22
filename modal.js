@@ -39,7 +39,11 @@ function ativarEventosDetalhes() {
             document.getElementById("modalPreco").textContent =
                 `R$ ${produto.preco}`;
 
+            document.getElementById("modalPeso").textContent =
+                produto.peso || "-";
 
+            document.getElementById("modalTamanho").textContent =
+                produto.tamanho || "-";
 
             document.getElementById("modalTempo").textContent =
                  produto.tempoImpressao || "-";

@@ -115,7 +115,7 @@
     "categoria": ["Utilidades" , "livros"],
     "preco": "R$ 2,00",
     "imagem": "img/Marca Pagina Gatinho.jpg",
-    "descricao": "Marca pagina de catinho muito fofo.",
+    "descricao": "Marca pagina de gatinho muito fofo.",
     "peso": "",
     "tamanho": "",
     "tempoImpressao": "15min"
@@ -153,18 +153,8 @@
     "tamanho": "",
     "tempoImpressao": "9h 12min"
   },
-  {
-    "id": 15,
-    "nome": "Suporte notebook Minimalista",
-    "categoria": "",
-    "preco": "R$ 27,00",
-    "imagem": "img/Suporte notebook Minimalista.jpg",
-    "descricao": "suporte de notebook minimalista e facilmente carregavel.",
-    "peso": "",
-    "tamanho": "",
-    "tempoImpressao": "2h 42min"
-  },
-  {
+
+  { 
     "id": 16,
     "nome": "Suporte Multifuncional",
     "categoria": ["Utilidades"],
@@ -185,27 +175,5 @@
     "peso": "",
     "tamanho": "",
     "tempoImpressao": "2h 25min"
-  },
-  {
-    "id": 18,
-    "nome": "Suporte fone ouvido",
-    "categoria": "",
-    "preco": "R$ 40,00",
-    "imagem": "img/Suporte fone ouvido.jpg",
-    "descricao": "suporte de fone robusto e moderno.",
-    "peso": "",
-    "tamanho": "",
-    "tempoImpressao": "6h 57min"
-  },
-  {
-    "id": 19,
-    "nome": "Xadrez dobravel e poortatil",
-    "categoria": "",
-    "preco": "R$ 70,00",
-    "imagem": "img/Xadrez dobravel e poortatil.jpg",
-    "descricao": "jogo de xadrez dobravel e portatil, para jogar em qualquer lugar.",
-    "peso": "",
-    "tamanho": "",
-    "tempoImpressao": "18h 14min"
   }
 ]
