@@ -5,9 +5,10 @@ const CORES_DISPONIVEIS = [
    // { nome: "Cinza", cor: "#808080" },
    // { nome: "Vermelho", cor: "#FF0000" },
    // { nome: "Azul", cor: "#0066FF" },
-   // { nome: "Verde", cor: "#00AA00" },
+    { nome: "Verde", cor: "#00AA00" },
    // { nome: "Amarelo", cor: "#FFD700" },
-   // { nome: "Rosa", cor: "#FF69B4" },
+    { nome: "Marrrom", cor: "#8b5b00" },
+    { nome: "Rosa", cor: "#FF69B4" },
    // { nome: "Laranja", cor: "#FF8800" },
    // { nome: "Transparente", cor: "#E0E0E0" }
 ];
@@ -38,11 +39,7 @@ function ativarEventosDetalhes() {
             document.getElementById("modalPreco").textContent =
                 `R$ ${produto.preco}`;
 
-            document.getElementById("modalPeso").textContent =
-                produto.peso || "-";
 
-            document.getElementById("modalTamanho").textContent =
-                produto.tamanho || "-";
 
             document.getElementById("modalTempo").textContent =
                  produto.tempoImpressao || "-";
