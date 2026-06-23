@@ -39,6 +39,12 @@ function ativarEventosDetalhes() {
             document.getElementById("modalPreco").textContent =
                 `R$ ${produto.preco}`;
 
+            const linkWhatsapp = document.getElementById("modalWhatsapp");
+            if (linkWhatsapp) {
+                linkWhatsapp.href = produto.whatsapp || "#";
+                linkWhatsapp.style.display = produto.whatsapp ? "inline-block" : "none";
+            }
+
             document.getElementById("modalPeso").textContent =
                 produto.peso || "-";
 
