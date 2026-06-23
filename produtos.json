@@ -235,10 +235,11 @@
     "id": 18,
     "nome": "teste1",
     "categoria": [
-      "Decoração"
+      "Decoração",
+      "Organização"
     ],
     "preco": "12",
-    "imagem": "img/teste1.jpg",
+    "imagem": "",
     "descricao": "212",
     "whatsapp": "https://wa.me/5532999992585?text=Tenho%20interesse%20em%20teste1",
     "peso": "21",
